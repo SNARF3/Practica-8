@@ -1,0 +1,4 @@
+Codigo: 1	Existencia: 45	Precio: 78	Nombre: cigarro
+Codigo: 3	Existencia: 45	Precio: 90	Nombre: cotaunas
+Codigo: 2	Existencia: 12	Precio: 129	Nombre: auriculares
+Codigo: 3	Existencia: 45	Precio: 90	Nombre: cotaunas
