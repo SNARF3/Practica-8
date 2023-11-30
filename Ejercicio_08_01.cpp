@@ -1,3 +1,21 @@
+// Materia: Programación I, Paralelo 1
+
+// Autor: MARVIN MOLLO RAMIREZ
+
+// Fecha creación:26 /11/2023
+
+// Fecha modificación: 30/11/2023
+
+// Número de ejericio: 9
+
+/* Problema planteado: Escribir un programa con la opción de encriptar y de desencriptar un fichero de texto.
+La encriptación consiste en que dado un fichero de texto de entrada genere otro fichero de
+salida de extensión <nombre>.COD donde el texto estará codificado (encriptado).
+Esta codificación consiste en reemplazar cada carácter por el tercero siguiente según la tabla
+ASCII.
+La opción de desencriptado consiste en leer un fichero <nombre>.COD y recuperar la
+información original. */
+
 #include <iostream>
 #include <fstream>
 #include <string.h>

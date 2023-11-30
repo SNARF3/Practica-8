@@ -1,3 +1,24 @@
+// Materia: Programación I, Paralelo 1
+
+// Autor: MARVIN MOLLO RAMIREZ
+
+// Fecha creación: 26/11/2023
+
+// Fecha modificación: 30/11/2023
+
+// Número de ejericio: 9
+
+/* Problema planteado: Codifique un programa que cree un fichero para contener los datos relativos a los artículos de
+un almacén.
+Para cada artículo habrá de guardar la siguiente información:
+• Código del artículo (Numérico)
+• Nombre del artículo (Cadena de caracteres)
+• Existencias actuales (Numérico)
+• Precio (Numérico decimal).
+Se deberán pedir datos de cada artículo por teclado hasta que como código se teclee el código
+0.
+El fichero se habrá de crear ordenado por el código del artículo. */
+
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
